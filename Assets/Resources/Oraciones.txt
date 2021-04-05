@@ -1,0 +1,53 @@
+{
+	"oraciones":
+	[
+		{
+			"imagen":"1",
+			"oracion": "He is watching tv"		
+		},
+		{
+			"imagen":"2",
+			"oracion": "She is riding a bike"		
+		},
+		{
+			"imagen":"3",
+			"oracion": "They are cooking"		
+		},
+		{
+			"imagen":"4",
+			"oracion": "He is reading a book"		
+		},
+		{
+			"imagen":"5",
+			"oracion": "She is combing her hair"		
+		},
+		{
+			"imagen":"6",
+			"oracion": "They are playing football"		
+		},
+		{
+			"imagen":"7",
+			"oracion": "He is playing the guitar"		
+		},
+		{
+			"imagen":"8",
+			"oracion": "She is drinking a cup of coffee"		
+		},
+		{
+			"imagen":"9",
+			"oracion": "They are starting a fire"		
+		},
+		{
+			"imagen":"10",
+			"oracion": "He is diving into the pool"		
+		},
+		{
+			"imagen":"11",
+			"oracion": "She is watching the time"		
+		},
+		{
+			"imagen":"12",
+			"oracion": "They are arguing"		
+		}
+	]
+}

@@ -1,0 +1,86 @@
+{
+    "nodos":
+            [
+                {
+                    "id":0,
+                    "texto":"Hi",
+                    "respuesta":"How are you?",
+					"respuestas": [3,4,5]
+					
+                },
+                {
+					"id":1,
+                    "texto":"How are you?",
+                    "respuesta":"Fine, and you?",
+					"respuestas": [4,5,6]
+                },
+                {
+                     "id":2,
+                    "texto":"How are you doing?",
+                    "respuesta":"I'm doing fine",
+					"respuestas": [7,8,9]
+                },
+                {
+                    "id":3,
+                    "texto":"I'm fine, and you?",
+                    "respuesta":"Very good. Let's go inside",
+					"respuestas": [10,10,10]
+                },
+				{
+                    "id":4,
+                    "texto":"I'm feeling okay, and you?",
+                    "respuesta":"Very good. Let's go inside",
+					"respuestas": [10,10,10]
+                },
+				{
+                    "id":5,
+                    "texto":"I'm a little tired",
+                    "respuesta":"Would you like to come in?",
+					"respuestas": [10,10,10]
+                },
+				{
+                    "id":6,
+                    "texto":"I'm fine",
+                    "respuesta":"Would you like to come in?",
+					"respuestas": [10,10,10]
+                },
+				{
+                    "id":7,
+                    "texto":"Can we go inside?",
+                    "respuesta":"Sure, let's go",
+					"respuestas": [11,11,11]
+                },
+				{
+                    "id":8,
+                    "texto":"Do you have anything to drink?",
+                    "respuesta":"Yes I do, let's go inside",
+					"respuestas": [11,11,11]
+                },
+				{
+                    "id":9,
+                    "texto":"I would like to come in please",
+                    "respuesta":"Sure, let's go",
+					"respuestas": [11,11,11]
+                },
+				{
+                    "id":10,
+                    "texto":"Yes please",
+                    "respuesta":"*go inside*",
+					"respuestas": [11,11,11]
+                },
+				{
+                    "id":11,
+                    "texto":"*go inside*",
+                    "respuesta":"*go inside*",
+					"respuestas": [11,11,11]
+                }
+
+            ],
+
+    "status":
+            {
+                "code": 0,
+                "text": "Success"
+            }
+
+}
